@@ -1,0 +1,8 @@
+
+WARNING:      (Restore hosting object 'dev.pse-parts.com')      Can not deploy content of domain dev.pse-parts.com
+
+WARNING:      ()      Archive error: Unable to extract files from /var/lib/psa/dumps/clients/pse/domains/dev.pse-parts.com/backup_user-data_2009300010.tgz to /var/www/vhosts/dev.pse-parts.com: /usr/lib64/plesk-9.0/sw-tar: etc/group: Cannot open: File exists
+/usr/lib64/plesk-9.0/sw-tar: etc/passwd: Cannot open: File exists
+/usr/lib64/plesk-9.0/sw-tar: Exiting with failure status due to previous errors
+
+
